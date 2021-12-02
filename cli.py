@@ -1,8 +1,8 @@
 def help():
     print_message = [
-        "Welcome to <tool name>, a cli tool for <description>",
+        "Welcome to awsquery, a cli tool for querying aws resources with SQL",
         "Commands include: " + ", ".join(commands),
-        "usage: <tool name> <command> [parameters]"
+        "usage: awsquery <command> [parameters]"
     ]
     print("\n".join(print_message))
 
