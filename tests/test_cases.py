@@ -2,9 +2,9 @@ from helpers import *
 
 def output():
     expected_output = [
-        "awsquery:  output: qwertyuiop12345",
-        "awsquery:   error: qwertyuiop12345",
-        "awsquery:    help: qwertyuiop12345"
+        "awsql:  output: qwertyuiop12345",
+        "awsql:   error: qwertyuiop12345",
+        "awsql:    help: qwertyuiop12345"
     ]
     input = [
         ["o", "qwertyuiop12345"],

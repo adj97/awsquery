@@ -5,5 +5,5 @@ output_types={
 }
 
 def output(type, output):
-    output = ["awsquery", output_types[type], str(output)]
+    output = ["awsql", output_types[type], str(output)]
     print(": ".join(output))

@@ -1,0 +1,19 @@
+{
+    "help": [
+        [
+            "Supported Resource Types:",
+            "AWS::ApiGateway::Stage",
+            "AWS::ApiGatewayV2::Stage",
+            "AWS::ApiGateway::RestApi",
+            "AWS::ApiGatewayV2::Api"
+        ],
+        [
+            "AWS Documentation:",
+            "https://docs.aws.amazon.com/config/latest/developerguide/querying-AWS-resources.html",
+            "https://docs.aws.amazon.com/config/latest/developerguide/query-using-sql-editor-cli.html",
+            "https://docs.aws.amazon.com/config/latest/developerguide/example-query.html",
+            "https://docs.aws.amazon.com/config/latest/developerguide/examplerelationshipqueries.html",
+            "https://docs.aws.amazon.com/config/latest/developerguide/query-components.html"
+        ]
+    ]
+}
